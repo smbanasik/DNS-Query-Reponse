@@ -14,8 +14,8 @@ void usage() {
     std::cout << "Error! Invalid arguments!\n"
         << "Proper format is below, you must input a lookup string\n"
         << "and a DNS server IP.\n"
-        << "hw2.exe www.website.com 192.168.0.1\n"
-        << "hw2.exe 127.0.0.1 192.168.0.1\n";
+        << "hw_class.exe www.website.com 192.168.0.1\n"
+        << "hw_class.exe 127.0.0.1 192.168.0.1\n";
 }
 
 // lookup string (at argv[1]) and DNS ip (at argv[2])
