@@ -7,8 +7,8 @@ To use, provide either a domain name or an IP address for lookup and the DNS ser
 
 ## Contributions
 Certain portions of the code were gotten from the homework assignment:
-- The `#define`s
+- The `#define`'s
 - The `make_dns_quersion` function
-- The high level structure of the `udp_send_receive` function.
+- The high level structure of the `udp_send_receive` function9
 
 Everything else was created by me, such as the error handling, main function, and response parsing.
